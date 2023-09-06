@@ -1,5 +1,3 @@
-# Links
-
 [My website](https://tristanlukens.com/)
 
 
