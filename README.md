@@ -1,3 +1,3 @@
 # treelink
 
-Why use linkt.ree when you can use markdown?
+Why use linktr.ee when you can use markdown?
